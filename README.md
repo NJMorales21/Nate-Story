@@ -1,7 +1,7 @@
 # Nate's-Story
 *Practice Assignment*
-Nate was an alien from planet Blorb. 
+Nate was an alien from planet JuiceWRLD. 
 He landed on a new planet called Earth.
-He named it Glorb. 
-The people of Glorb chased Nate. 
-Nate escaped the Glorbians. 
+He named it SickoWorld. 
+The people of SickoWorld chased Nate. 
+Nate escaped the Sickos. 
